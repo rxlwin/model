@@ -1,0 +1,15 @@
+{
+    "name": "rxlwin/model",
+    "authors": [
+        {
+            "name": "Ren Xiaolong",
+            "email": "40367288@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"rxlwin\\model\\":""
+		}
+	}
+}
