@@ -6,7 +6,7 @@
  * Time: 22:21
  */
 
-namespace myself\model;
+namespace rxlwin\model;
 use PDOException;
 use PDO;
 

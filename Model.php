@@ -1,5 +1,5 @@
 <?php
-namespace myself\model;//1.声明类的命名空间 2.由composer规范,以实现自动加载,自由调用
+namespace rxlwin\model;//1.声明类的命名空间 2.由composer规范,以实现自动加载,自由调用
 /**
  * Class Model 基本模型类,所有应用模型类都要继承此类
  * 本类抽象出了所有应用模型类都会需要的方法,以实现代码公用
